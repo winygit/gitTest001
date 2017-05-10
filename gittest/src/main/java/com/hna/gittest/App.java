@@ -10,7 +10,6 @@ public class App {
         System.out.println("WJT");
         System.out.println("SY");
         System.out.println("LXX");
-        System.out.println("123456");
 
 
     }
